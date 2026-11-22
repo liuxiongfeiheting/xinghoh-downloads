@@ -18,8 +18,8 @@ XINGHOH-BOT 是一款运行在本机的智能体工作台：把多个各有分�
 
 | 平台 | 版本 | 安装包 | 下载 |
 | --- | --- | --- | --- |
-| Windows 10/11 x64 | 1.0.11 | `XINGHOH-BOT_1.0.11_x64-setup.exe` | [前往 Releases](https://github.com/liuxiongfeiheting/xinghoh-downloads/releases/tag/v1.0.11) |
-| Linux x86_64（Debian/Ubuntu） | 1.0.16 | `XINGHOH-BOT_1.0.16_amd64.deb` | [前往 Releases](https://github.com/liuxiongfeiheting/xinghoh-downloads/releases/tag/v1.0.16) |
+| Windows 10/11 x64 | 1.0.17 | `XINGHOH-BOT_1.0.17_x64-setup.exe` | [前往 Releases](https://github.com/liuxiongfeiheting/xinghoh-downloads/releases/tag/v1.0.17) |
+| Linux x86_64（Debian/Ubuntu） | 1.0.17 | `XINGHOH-BOT_1.0.17_amd64.deb` | [前往 Releases](https://github.com/liuxiongfeiheting/xinghoh-downloads/releases/tag/v1.0.17) |
 
 所有版本都在 [Releases](https://github.com/liuxiongfeiheting/xinghoh-downloads/releases) 页面，安装包的 SHA-256 校验值见 [`SHA256SUMS.txt`](SHA256SUMS.txt)。
 
@@ -28,12 +28,12 @@ XINGHOH-BOT 是一款运行在本机的智能体工作台：把多个各有分�
 **Linux（Debian / Ubuntu）**
 
 ```bash
-sudo apt install ./XINGHOH-BOT_1.0.16_amd64.deb
+sudo apt install ./XINGHOH-BOT_1.0.17_amd64.deb
 ```
 
 **Windows**
 
-双击 `XINGHOH-BOT_1.0.11_x64-setup.exe` 安装。首次运行如出现 SmartScreen 提示，请核对文件来源为我们仓库的 Releases 后再选择「仍要运行」。
+双击 `XINGHOH-BOT_1.0.17_x64-setup.exe` 安装。首次运行如出现 SmartScreen 提示，请核对文件来源为我们仓库的 Releases 后再选择「仍要运行」。
 
 ### 运行要求
 

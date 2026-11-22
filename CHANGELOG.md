@@ -4,6 +4,7 @@
 
 | 版本 | 构建日期 | Windows x64 | Linux amd64 | 发布位置 |
 | --- | --- | --- | --- | --- |
+| 1.0.17 | 2026-11-22 | ✅ | ✅ | [v1.0.17](https://github.com/liuxiongfeiheting/xinghoh-downloads/releases/tag/v1.0.17) |
 | 1.0.16 | 2026-11-22 | — | ✅ | [v1.0.16](https://github.com/liuxiongfeiheting/xinghoh-downloads/releases/tag/v1.0.16) |
 | 1.0.15 | 2026-11-22 | — | ✅ | 未在本仓库发布 |
 | 1.0.14 | 2026-11-22 | — | ✅ | 未在本仓库发布 |
@@ -22,6 +23,6 @@
 
 说明：
 
-- Windows 安装包自 1.0.12 起暂停对外构建，最新可下载的 Windows 版本为 **1.0.11**。
+- Windows 安装包在 1.0.12～1.0.16 期间未对外构建，自 **1.0.17** 起恢复与 Linux 同步发布。
 - 早期版本（1.0.1～1.0.15）仅作为版本沿革记录，本仓库不提供下载。
 - 安装包的 SHA-256 校验值见 [`SHA256SUMS.txt`](SHA256SUMS.txt)。
