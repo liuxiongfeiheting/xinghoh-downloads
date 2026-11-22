@@ -1,8 +1,8 @@
 # XINGHOH-BOT
 
-**本地优先的多智能体协作工作台（桌面客户端）**
+**本地优先的多智能体协作工作台 · AI 桌面客户端（XINGHOH BOT / XINGHOH-BOT Desktop）**
 
-XINGHOH-BOT 是一款运行在本机的智能体工作台：把多个各有分工的智能体放进同一张协作画布，用「派单 / 回单 / 告急」三条线组织任务流转，并允许把 Claude Code、Codex、DSH、Gemini、Hermes 等外部引擎直接接入同一套工作区。
+XINGHOH-BOT 是一款运行在本机的智能体工作台，也是一个 AI 桌面客户端（AI desktop client）：把多个各有分工的智能体放进同一张协作画布，用「派单 / 回单 / 告急」三条线组织任务流转，并允许把 Claude Code、Codex、DSH、Gemini、Hermes 等外部引擎直接接入同一套工作区。
 
 - 数据保存在你自己的电脑上，不经过我们的服务器
 - 没有账号体系，无需注册登录
@@ -81,6 +81,12 @@ sudo apt install ./XINGHOH-BOT_1.0.17_amd64.deb
 - 未经版权所有者事先书面许可，不得复制、修改、反编译、再分发、转售本软件或其任何部分，不得将其用于商业目的。
 
 安装与使用前请阅读 [EULA.md](EULA.md)。第三方组件声明见 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
+
+## 关于名称与检索
+
+- 项目全名：**XINGHOH-BOT**，也写作 **XINGHOH BOT**、**XINGHOHBOT**
+- 英文描述：XINGHOH-BOT is a local-first, multi-agent AI desktop client for Windows and Linux.
+- 本仓库只发布安装包与文档，不包含源代码。
 
 ## 反馈
 
